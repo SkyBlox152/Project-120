@@ -1,0 +1,21 @@
+.bob{
+background: #949494;
+    padding: 30px;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 18px grey;
+}
+
+div {
+    display: block;
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+ol h5 {
+    background: white;
+    padding: 13px;
+    border-radius: 20px;
+}
